@@ -138,7 +138,7 @@ Kumpulan API tentang data dan informasi di Indonesia
 
 | Nama API                        | Pengembang | Dokumentasi                                           | Status | Deskripsi                                                 | Autentikasi |
 | ------------------------------- | ---------- | ----------------------------------------------------- | ------ | --------------------------------------------------------- | ----------- |
-| Hot thread kaskus (Un-official) | Bayu       | [Link](https://api.bayyu.net)                         | ✅     | Mendapatkan hot-thread dari Kaskus.                       | API KEY     |
+| Hot thread kaskus (Un-official) | Bayu       | [Link](https://api.bayyu.net)                         | ❎     | Mendapatkan hot-thread dari Kaskus.                       | API KEY     |
 | Kaskus API                      | Kaskus Dev | [Link](https://github.com/kaskus/kaskus-php-sdk/wiki) | ✅     | API untuk mengakses forum terkenal di Indonesia - Kaskus. | OAUTH       |
 
 ### Hiburan
@@ -164,7 +164,7 @@ Kumpulan API tentang data dan informasi di Indonesia
 | Student Blue Archive                       | arufars                                 | [Link](https://github.com/arufars/api-blue-archive)                                                     | ✅     | API (unofficial) berisi informasi data character dari game Blue Archive.                                                                           | `false`     |
 | Tahukah Anda API                           | Icaksh                                  | [Link](https://cinnabar.icaksh.my.id/public/daily/tawiki)                                               | ✅     | API untuk mendapatkan informasi fakta harian (Tahukah Anda) yang berasal dari Wikipedia.                                                           | `false`     |
 | Tanggal Lahiran Pasaran Zodiak             | iBachor                                 | [Link](https://github.com/bachors/apiapi#tanggal-lahiran-pasaran-zodiak)                                | ✅     | Mengecek zodiak berdasarkan tanggal lahir serta dapat memberitahukan detail tanggal lahir, detail usia, serta detail rentang ulang tahun terdekat. | `false`     |
-| TOOLCEK                                    | Alex                                    | [Link](https://documenter.getpostman.com/view/13751573/2s8Z6vYZgS#b488f545-0053-4818-a440-ddc360391d36) | ✅     | API Cek ID Games,Nomor Rekening,Nomor E-Wallet,Nomor meter PLN,DLL,Membantumu dalam system validasi,Integrasikan sekarang juga!                    | API KEY     |
+| TOOLCEK                                    | Alex                                    | [Link](https://documenter.getpostman.com/view/13751573/2s8Z6vYZgS#b488f545-0053-4818-a440-ddc360391d36) | ❎     | API Cek ID Games,Nomor Rekening,Nomor E-Wallet,Nomor meter PLN,DLL,Membantumu dalam system validasi,Integrasikan sekarang juga!                    | API KEY     |
 | Unofficial Liga Indonesia                  | Agis R Herdiana                         | [Link](https://ligaindonesia-api.vercel.app/docs)                                                       | ✅     | Unofficial API liga Indonesia tentang info pertandingan, statistik, klasemen, tim, dan lain-lain.                                                  | `false`     |
 | Yet Another API for Anime and Stuff        | [Aerysh](https://github.com/Aerysh)     | [Link](https://github.com/Aerysh/yaaas)                                                                 | ✅     | Menyediakan kumpulan API yang dapat digunakan untuk mengakses informasi tentang hiburan seperti Anime, Manga, dll.                                 | `false`     |
 
@@ -263,8 +263,7 @@ Kumpulan API tentang data dan informasi di Indonesia
 | Nama API   | Pengembang                                              | Dokumentasi                         | Status | Deskripsi                                                                                                                                        | Autentikasi |
 | ---------- | ------------------------------------------------------- | ----------------------------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- |
 | Akuari Api | akuari                                                  | [Link](https://api.akuari.my.id/)   | ✅     | Kumpulan api kebutuhan bot, dan beberapa api: Visitor api, Cek ip api, Cek Website Hidup atau tidak, File api, dan lain-lain dengan respon JSON. | `false`     |
-| ConnectAPI | [Ihsan Devs](https://ihsandevs.com)                     | [Link](https://api.ihsandevs.io)    | ❎     | API Publik yang menyediakan berbagai macam API dan layanan API akan bertambah seiring berjalannya waktu.                                         | API KEY     |
-| Forest API | [Rio Agung Purnomo](https://github.com/rioagungpurnomo) | [Link](https://www.forestapi.my.id) | ✅     | Kumpulan API gratis tanpa batas yang dapat digunakan kapan saja dan di mana saja.                                                                | `false`     |
+| Forest API | [Rio Agung Purnomo](https://github.com/rioagungpurnomo) | [Link](https://www.forestapi.my.id) | ❎     | Kumpulan API gratis tanpa batas yang dapat digunakan kapan saja dan di mana saja.                                                                | `false`     |
 
 ### Sosial Media
 
