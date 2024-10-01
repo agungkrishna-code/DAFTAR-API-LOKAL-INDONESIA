@@ -101,17 +101,6 @@
       "authentication": "API KEY"
     },
     {
-      "apiName": "Gotopup",
-      "status": false,
-      "documentationUrl": "https://docs.gotopup.id/",
-      "developer": {
-        "name": "Gotopup",
-        "profileUrl": null
-      },
-      "description": "API untuk melakukan transaksi pembelian Top up Game, Pulsa, Listrik Dll.",
-      "authentication": "API KEY"
-    },
-    {
       "apiName": "Harga Emas",
       "status": true,
       "documentationUrl": "https://codeberg.org/bramaudi/gold-price",
@@ -179,7 +168,7 @@
     },
     {
       "apiName": "OJK Investasi API",
-      "status": true,
+      "status": false,
       "documentationUrl": "https://github.com/Namchee/ojk-invest-api",
       "developer": {
         "name": "Cristopher",
@@ -190,7 +179,7 @@
     },
     {
       "apiName": "OVO Unofficial",
-      "status": true,
+      "status": false,
       "documentationUrl": "https://github.com/fdciabdul/new-ovoid-nodejs",
       "developer": {
         "name": "fdciabdul",
