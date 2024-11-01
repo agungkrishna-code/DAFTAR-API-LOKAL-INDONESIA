@@ -3,7 +3,7 @@
   "apis": [
     {
       "apiName": "Masak Apa",
-      "status": false,
+      "status": true,
       "documentationUrl": "https://github.com/tomorisakura/unofficial-masakapahariini-api",
       "developer": {
         "name": "Reski",

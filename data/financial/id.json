@@ -168,7 +168,7 @@
     },
     {
       "apiName": "OJK Investasi API",
-      "status": false,
+      "status": true,
       "documentationUrl": "https://github.com/Namchee/ojk-invest-api",
       "developer": {
         "name": "Cristopher",
@@ -179,7 +179,7 @@
     },
     {
       "apiName": "OVO Unofficial",
-      "status": false,
+      "status": true,
       "documentationUrl": "https://github.com/fdciabdul/new-ovoid-nodejs",
       "developer": {
         "name": "fdciabdul",
