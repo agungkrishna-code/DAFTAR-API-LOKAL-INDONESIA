@@ -2,17 +2,6 @@
   "categoryName": "Utilitas",
   "apis": [
     {
-      "apiName": "Arbanat",
-      "status": false,
-      "documentationUrl": "https://arbanat.my.id",
-      "developer": {
-        "name": "jajanjawa",
-        "profileUrl": null
-      },
-      "description": "kirim sms melalui rest api.",
-      "authentication": "API KEY"
-    },
-    {
       "apiName": "Daftar nama Bank di Indonesia",
       "status": true,
       "documentationUrl": "https://bank.thecloudalert.com",
