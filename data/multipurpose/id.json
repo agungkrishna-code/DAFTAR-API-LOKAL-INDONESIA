@@ -11,17 +11,6 @@
       },
       "description": "Kumpulan api kebutuhan bot, dan beberapa api:  Visitor api, Cek ip api, Cek Website Hidup atau tidak, File api, dan lain-lain dengan respon JSON.",
       "authentication": false
-    },
-    {
-      "apiName": "Milfu API",
-      "status": false,
-      "documentationUrl": "https://api.ngodingaja.my.id",
-      "developer": {
-        "name": "Jauhariq",
-        "profileUrl": "https://github.com/jauhariq"
-      },
-      "description": "Menyediakan berbagai macam API secara gratis tanpa batasan penggunaan untuk membantu mempermudah proses pengembanganmu!",
-      "authentication": false
     }
   ]
 }
